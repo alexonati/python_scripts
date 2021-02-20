@@ -4,4 +4,5 @@
 details, as well as mark books as read (meaning they’ve finished reading them already), and delete existing books.
 To store the book objects an in-memory database (a Python list), a .txt file, a .json file an an sqlite db are used.
 
-My key takeaways were how to store objects (data) in different file types and a small sqlite db.
+My key takeaways were:
+ - how to store objects (data) in different file types & to a SQLite db.
